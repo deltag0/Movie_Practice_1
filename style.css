@@ -1,0 +1,71 @@
+body{
+	margin: 0;
+	background-color: rgba(45, 40, 107, 1.0);
+}
+
+.app{
+	color: white;
+	letter-spacing: 1px;
+	font-weight: bold;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	padding-right: 100%;
+}
+.searchb{
+
+	background-color: rgba(45, 40, 107, 1.0);
+	color: rgba(166, 166, 166, 1.0);
+	border-radius: 4px;
+	padding: 10px 10px ;
+	border: 2px solid rgba(45, 40, 107, 1.0);
+	margin-left: 10px;
+}
+
+.searchbar{
+	border-radius: 4px;
+	position: absolute;
+	margin-left: 70%;
+	top: 20%;
+}
+
+
+
+ul {
+	position: relative;
+	margin: 0;
+	padding: 20px 20px;
+	background-color: rgba(27, 24, 74, 1.0);
+}
+
+li{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}
+
+.thumbnail {
+	position: relative;
+	height: 60%;
+	width: 85%;
+
+	
+}
+
+.column{
+
+	float: left;
+	width: 25%;
+	padding: 10px 10px;
+}
+
+.card{
+
+	color: white;
+	text-align: center; 
+	border-radius: 19px;
+	padding: 5%;
+	background-color: rgba(27, 24, 74, 1.0);
+	
+}
+
